@@ -23,10 +23,6 @@ public class LoginController {
         return "login";
     }
     
-    @RequestMapping(value="/home", method = RequestMethod.GET)
-    public String showHomePage(ModelMap model){
-        return "home";
-    }
 
     @RequestMapping(value="/login", method = RequestMethod.POST)
     public String showWelcomePage(ModelMap model, @RequestParam String name, @RequestParam String password){
@@ -38,10 +34,10 @@ public class LoginController {
             return "login";
         }
 
-        model.put("name", name);
-        model.put("password", password);
+       // model.put("name", name);
+      //  model.put("password", password);
 
-        return "welcome";
+        return "carhome";
     }
 
 }
