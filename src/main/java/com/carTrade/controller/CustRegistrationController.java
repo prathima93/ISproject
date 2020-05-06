@@ -29,5 +29,7 @@ public class CustRegistrationController {
         String message=custRegistrationService.getCustDetails(details);
         return new ResponseEntity<String>(message,HttpStatus.OK);
     }
+    
+   
 
 }

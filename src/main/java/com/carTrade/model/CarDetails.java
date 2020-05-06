@@ -4,8 +4,10 @@ import lombok.Data;
 
 @Data	
 public class CarDetails {
-	public String carColor;
-	private String carModel;
-	private String carMake;
+	public String model;
+	private String make;
+	private String color;
+	private int year;
+	private long mileage;
 
 }
