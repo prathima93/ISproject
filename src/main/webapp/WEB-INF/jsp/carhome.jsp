@@ -73,7 +73,7 @@ bottom: 0px;
 					<li class="nav-item active"><a class="nav-link"
 						href="/homePage">Home <span class="sr-only">(current)</span>
 					</a></li>
-					<li class="nav-item"><a class="nav-link" href="/loginpg">logout</a>
+					<li class="nav-item"><a class="nav-link" href="/login">logout</a>
 					</li>
 				</ul>
 			</div>
