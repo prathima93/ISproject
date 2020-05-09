@@ -68,8 +68,8 @@ body {
 
 	<div class="container">
 		<div class="py-5 text-center">
-			<h2>Checkout form</h2>
-			<p class="lead">Proceed to check out</p>
+			<h2>Proceed to check out</h2>
+			
 		</div>
 
 		<div class="row">

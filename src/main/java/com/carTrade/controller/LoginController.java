@@ -44,7 +44,7 @@ public class LoginController {
       //  model.put("password", password);
 
         return "carhome";
-    }
+    } 
     
     @RequestMapping(value="/carRegistration", method = RequestMethod.GET)
     public String showRegistrationPage(){

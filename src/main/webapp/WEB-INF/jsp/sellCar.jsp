@@ -214,9 +214,6 @@ body {
    	});
 
         $("#car_data").click(function () {
-        	
-        	alert("hello");
-        	
             var requestData = {
                 make: $('#model').val(),
                 model: $('#make').val(),

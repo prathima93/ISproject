@@ -116,7 +116,7 @@
                      $("#username").val("");
                      $("#password").val("");
                      $("#exampleModal").modal( "hide" );
-                     window.location.href = "/loginpg";
+                     window.location.href = "/login";
     });
     $(document).ready(function () {
 

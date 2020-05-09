@@ -111,8 +111,9 @@ body {
 									<a href="/checkOut">BMW</a>
 								</h4>
 								<h5>$45000</h5>
-								<p class="card-text">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit. Amet numquam aspernatur!</p>
+								<p class="card-text"> BMW is the most powerful automobile featuring superb design, great performance, 
+								fine torque and a lot of luxury attached.
+								</p>
 							</div>
 							<div class="card-footer">
 								<small class="text-muted">&#9733; &#9733; &#9733;
@@ -130,9 +131,8 @@ body {
 									<a href="/checkOut">Ferrari</a>
 								</h4>
 								<h5>$200000</h5>
-								<p class="card-text">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor
-									sit amet.</p>
+								<p class="card-text">Ferrari is an Italian luxury sports car
+								It is known for their utilization of race technology in their street cars</p>
 							</div>
 							<div class="card-footer">
 								<small class="text-muted">&#9733; &#9733; &#9733;
@@ -150,8 +150,8 @@ body {
 									<a href="/checkOut">Honda Accord</a>
 								</h4>
 								<h5>$35000</h5>
-								<p class="card-text">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit. Amet numquam aspernatur!</p>
+								<p class="card-text"> The Honda Accord is an excellent all-around vehicle
+								with upscale cabin materials, a good number of standard safety features</p>
 							</div>
 							<div class="card-footer">
 								<small class="text-muted">&#9733; &#9733; &#9733;
@@ -169,8 +169,8 @@ body {
 									<a href="/checkOut">Hyundai Sonata</a>
 								</h4>
 								<h5>$35000</h5>
-								<p class="card-text">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit. Amet numquam aspernatur!</p>
+								<p class="card-text">The all-new Sonata is a perfect showcase for Hyundai's
+								 characteristic mix of attractive design and high-level features at an affordable price.</p>
 							</div>
 							<div class="card-footer">
 								<small class="text-muted">&#9733; &#9733; &#9733;
@@ -188,9 +188,10 @@ body {
 									<a href="/checkOut">Lamborghini</a>
 								</h4>
 								<h5>$250000</h5>
-								<p class="card-text">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor
-									sit amet.</p>
+								<p class="card-text">Lamborghini have created a design that makes the driver feel 
+								they've time traveled into the distant future.The only supercar that can afford to
+								 build one with a single line to connect the front with the rear. </p>
+						
 							</div>
 							<div class="card-footer">
 								<small class="text-muted">&#9733; &#9733; &#9733;
@@ -208,8 +209,9 @@ body {
 									<a href="/checkOut">Mercedes</a>
 								</h4>
 								<h5>$45000</h5>
-								<p class="card-text">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit. Amet numquam aspernatur!</p>
+								<p class="card-text">Mercedes is a luxury car
+								 known for most of the modern Automobile innovation that focused on safety and Quality.
+								  </p>
 							</div>
 							<div class="card-footer">
 								<small class="text-muted">&#9733; &#9733; &#9733;
